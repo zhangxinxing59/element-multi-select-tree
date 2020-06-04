@@ -21,4 +21,4 @@ npm run lint
 ```
 
 ### Demo 展示
-![avatar](./src/assets/select-tree.gif)
+![](./src/assets/select-tree.gif)
