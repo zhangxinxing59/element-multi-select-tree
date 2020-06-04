@@ -82,10 +82,8 @@ handleTagChange: function(node) {
 ### Demo 展示
 ![](./src/assets/select-tree.gif)
 
-----
+------
 
->参考文献
-
->[Element UI框架中巧用树选择器](https://juejin.im/post/5c107290e51d4536425c8195)
-
->[vue实现 Element-UI 的 Tree Select 树形选择器组件（一）组件封装](https://blog.csdn.net/qq_36410795/article/details/89885659)
+>参考文献  
+>[Element UI框架中巧用树选择器](https://juejin.im/post/5c107290e51d4536425c8195)  
+>[vue实现 Element-UI 的 Tree Select 树形选择器组件（一）组件封装](https://blog.csdn.net/qq_36410795/article/details/89885659)  
